@@ -78,7 +78,6 @@ class _TodoListScreenState extends State<TodoListScreen> {
                             borderRadius: BorderRadius.circular(4),
                           ),
                           onChanged: (value) {
-                            // Здесь в будущем можно добавить отправку ивента в Блок
                           },
                         ),
                       ],
